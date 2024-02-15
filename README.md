@@ -8,5 +8,6 @@ Process:
 * Evaluate Model
 
 Steps To Reproduce
-1. `pip install -r requirements`
-2. `python src/data_processing`
+1. `pip install -r requirements.txt`
+2. `python src/data_processing.py`
+3. `python src/tokenizer_trainer.py`
