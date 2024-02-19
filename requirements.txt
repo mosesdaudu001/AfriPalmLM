@@ -1,5 +1,8 @@
 # transformers==4.35.2
 transformers[torch]
+transformers[sentencepiece]
 datasets==2.17.0
 nltk==3.8.1
 ipykernel
+accelerate 
+bitsandbytes
