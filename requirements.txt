@@ -6,3 +6,4 @@ nltk==3.8.1
 ipykernel
 accelerate 
 bitsandbytes
+peft
